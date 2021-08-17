@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+h1{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: bisque;
+}
+p { 
+    font-style: italic;
+    color: aquamarine;
+}
+.p1{
+    font-size: 30px;
+}

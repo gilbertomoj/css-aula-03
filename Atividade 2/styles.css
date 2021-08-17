@@ -1,0 +1,19 @@
+body{
+    background-color: orange;
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+}
+p { 
+    font-style: italic;
+    color: green;
+}
+.p1{
+    font-size: 30px;
+}
+p:first-child{
+    text-transform: uppercase;
+}
